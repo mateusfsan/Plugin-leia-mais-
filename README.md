@@ -144,3 +144,6 @@ O código é modular e pode ser facilmente adaptado para:
 - Se o tema já carrega Inter, remova o `wp_enqueue_style('inter-font', ...)`.
 
 ---
+
+
+[⬇️ Baixar plugin (ZIP)](https://github.com/SEU-USUARIO/SEU-REPO/releases/latest/download/bloco-leia-mais.zip)
