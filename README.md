@@ -145,5 +145,7 @@ O código é modular e pode ser facilmente adaptado para:
 
 ---
 
+# Bloco Leia Mais (WordPress Shortcode)
 
-[⬇️ Baixar plugin (ZIP)](https://github.com/SEU-USUARIO/SEU-REPO/releases/latest/download/bloco-leia-mais.zip)
+[![Download ZIP](https://img.shields.io/badge/⬇%20Download-ZIP-blue)](https://github.com/mateusfsan/Plugin-leia-mais-/archive/refs/heads/main.zip)  
+Shortcode WordPress leve para criar blocos “Leia Mais” com título, texto expandível e botão colorido dinamicamente a partir da cor definida na taxonomia do post. Sem jQuery, fácil de instalar e personalizar.
