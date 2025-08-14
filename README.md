@@ -27,8 +27,6 @@ Sem dependências de jQuery. Tipografia com **Inter** (Google Fonts).
 
 ![Demonstração do efeito "Leia Mais aberto"](assets/aberto.png)
 
-> **Observação:** adicione as imagens na pasta `assets/` do seu repositório para que apareçam no GitHub.
-
 ---
 
 ## Requisitos
